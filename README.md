@@ -1,2 +1,13 @@
-# SF_Salary_Analysis
-Exploring San Francisco employee salary data using Pandas. I have started project based practice of Pandas and its my first try in my Data science career.
+# San Francisco Salary Analysis
+Exploring employee salary distribution and trends using Pandas
+
+## 🧾 Dataset
+San Francisco city employee salaries (public dataset)
+
+## 🛠 Tools Used
+- Python
+- Pandas
+- 
+## 📊 Insights
+- Found top-paying job titles
+- Analyzed trends by year
